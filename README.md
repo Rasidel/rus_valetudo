@@ -3,8 +3,8 @@
 Из web интерфейса:
 "Robot Options" → "Misc Options"
    `URL: https://github.com/Rasidel/rus_valetudo/releases/download/v1/rus.tar.gz`
-    `Language Code: rasidel или свое на выбор, кроме ru, en и т.д.`
-    `Hash MD5: 82a3505d95975907a711cd8037b3f2cb`
+   `Language Code: rasidel или свое на выбор, кроме ru, en и т.д.`
+   `Hash MD5: 82a3505d95975907a711cd8037b3f2cb`
 
 Нажимайте "Set Voice Pack"
 
